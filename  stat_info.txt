@@ -1,0 +1,41 @@
+
+
+1. NBA Win Shares 
+
+## Win Share 
+https://www.basketball-reference.com
+https://www.basketball-reference.com/about/ws.html
+https://www.basketball-reference.com/leagues/NBA_2018_advanced.html
+
+2. RPM 
+ : 	NBA Real Plus-Minus - 2017-18 
+http://www.espn.com/nba/statistics/rpm
+
+
+3. Efficiency 
+ https://stats.nba.com/leaders/
+
+
+players plus-minus
+
+## 통계 ( advanced )
+http://ichanggo.blogspot.com/2017/05/nba-glossary.html
+ 
+
+
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[3]
+
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[4]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[1]/div[1]/table/tbody/tr
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div/a
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]
+
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[3]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[2]/table/tbody/tr[1]/td[2]/a
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[3]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[22]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[11]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[1]/table/tbody/tr[1]/td[13]
+/html/body/main/div[2]/div/div[2]/div/div/nba-stat-table/div[2]/div[2]/table/tbody/tr[1]/td[2]/a
+/html/body/main/div[2]/div/div[2]/div/div/div[2]/div[2]/stats-run-it/a
