@@ -66,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nba_players_winshare.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nba_players_winshare.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/web/nba_players_winshare.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+            <state relative-caret-position="-195">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -78,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nba_players_winshare_stats.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nba_players_winshare_stats.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_winshare_stats.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
             <state />
@@ -150,6 +150,7 @@
         <option value="$PROJECT_DIR$/../nba_stats_scrap/web/nba_players_salary.py" />
         <option value="$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_salary.csv" />
         <option value="$PROJECT_DIR$/../nba_stats_scrap/web/nba_players_winshare.py" />
+        <option value="$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_winshare_stats.csv" />
       </list>
     </option>
   </component>
@@ -659,11 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_winshare_stats.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_salary.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state />
@@ -671,12 +667,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/web/nba_players_winshare.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        <state relative-caret-position="-195">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nba_stats_scrap/data/nba_players_winshare_stats.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state />
       </provider>
     </entry>
   </component>

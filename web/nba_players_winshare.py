@@ -60,14 +60,14 @@ try:
             blk = record.find_element_by_xpath('.//td[16]').text
             tov = record.find_element_by_xpath('.//td[17]').text
             usg = record.find_element_by_xpath('.//td[18]').text
-            ows = record.find_element_by_xpath('.//td[19]').text
-            dws = record.find_element_by_xpath('.//td[20]').text
-            ws = record.find_element_by_xpath('.//td[21]').text
-            ws_per_all = record.find_element_by_xpath('.//td[22]').text
-            obpm = record.find_element_by_xpath('.//td[23]').text
-            dbpm = record.find_element_by_xpath('.//td[24]').text
-            bpm = record.find_element_by_xpath('.//td[25]').text
-            vorp = record.find_element_by_xpath('.//td[26]').text
+            ows = record.find_element_by_xpath('.//td[20]').text
+            dws = record.find_element_by_xpath('.//td[21]').text
+            ws = record.find_element_by_xpath('.//td[22]').text
+            ws_per_all = record.find_element_by_xpath('.//td[23]').text
+            obpm = record.find_element_by_xpath('.//td[25]').text
+            dbpm = record.find_element_by_xpath('.//td[26]').text
+            bpm = record.find_element_by_xpath('.//td[27]').text
+            vorp = record.find_element_by_xpath('.//td[28]').text
 
             record_data = [[name, pos, age, team, game, mp, per, ts_prt, th_par, ftr, orb, drb, trb, ast \
                                , stl, blk, tov, usg, ows, dws, ws, ws_per_all, obpm, dbpm, bpm, vorp]]
