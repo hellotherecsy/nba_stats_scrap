@@ -57,6 +57,11 @@ while int(page_num) < 12:
 
 
 stats_total = stats_total.replace('\n','', regex=True)
+
+salary['SALARY'] = salary['SALARY'].str.replace(',', '')
+salary['SALARY'] = salary['SALARY'].str.replace('$', '')
+salary['SALARY'] = salary['SALARY'].astype(int)
+
 stats_total.to_csv("../data/nba_players_salary.csv", mode='w',index=False)
 
 #driver.close()

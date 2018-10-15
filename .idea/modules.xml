@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NBA_scrap.iml" filepath="$PROJECT_DIR$/.idea/NBA_scrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nba_stats_scrap.iml" filepath="$PROJECT_DIR$/.idea/nba_stats_scrap.iml" />
     </modules>
   </component>
 </project>
